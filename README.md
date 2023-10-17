@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Adilson 🇧🇷
 
+- I've barchelor's degree in Systems Information from UNIFEB - University Centre of Barretos Educational Foundation.
+- 5 years working with BPMN/ECM processes through a web plataform.
+- Advanced English Speaker!
+- High amount of experience with web applications and its structure, architecture, development and maintence.
+- Always wanting to learn something new.
+- In love with the development of web applications.
+- Currently improving skills in NodeJS + Express.
 <!--
 **HonoratoAdilson/HonoratoAdilson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
